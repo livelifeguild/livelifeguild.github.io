@@ -140,6 +140,3 @@
 
 })(jQuery);
 
-$(document).ready(function() {
-    $("#wrapper").show();
-});
