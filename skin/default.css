@@ -81,3 +81,12 @@ x{
 	color: #7f8c8d;
 }
 
+#blacktext{
+	color:#000;
+}
+
+a:hover, a:active {text-decoration: underline;}
+
+p > a{
+	color:#000;
+}
