@@ -90,3 +90,27 @@ a:hover, a:active {text-decoration: underline;}
 p > a{
 	color:#000;
 }
+
+/*hover image*/
+.hover_img a { 
+	position:relative; 
+	color:#000;
+	
+}
+
+.hover_img a span {
+ position:absolute; 
+ display:none; 
+ z-index:99; 
+ width: 380px;
+ height: 238px;
+ background-color: #f7f7f7;
+ box-shadow: 10px 10px 10px 10px #888888;
+ margin-top: -260px;  
+ 
+}
+
+.hover_img a:hover span {
+ display:block; 
+
+}
