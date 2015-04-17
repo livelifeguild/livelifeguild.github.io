@@ -315,7 +315,7 @@ section.section {
 }
 
 .bg-samecolortop {
-	background-color: #FF4747;
+	background-color: #000;
 }
 
 /* --- section heading --- */
@@ -442,7 +442,7 @@ h1 a.navbar-brand {
 
 section.featured {
 	padding: 200px 0 60px;
-	background: #FF4747;
+	background: #000; /*##62C252,E56832*/
 	color: #fdfdfd;
 }
 
@@ -892,7 +892,7 @@ div.cform-response-output {
  ================= */
 
 section#footer {
-	background: #FF4747;
+	background: #E56832;
 	margin: 0;
 }
 
